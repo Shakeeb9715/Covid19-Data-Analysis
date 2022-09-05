@@ -1,0 +1,1 @@
+In this project, I learned how to pre-process and merge datasets to calculate needed measures and prepare them for an Analysis. I worked with the COVID19 dataset, published by Government of India, which consists of the data related to the cumulative number of confirmed positive cases, deaths and recovered persons in India.
